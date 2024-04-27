@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Submission-AndSederhana-Abdan</string>
+
+    <string name="my_name">Abdan Nur Fikri</string>
+    <string name="my_email">a006d4ky3618@bangkit.academy</string>
+
+    <string name="comics_name">Comic Name</string>
+    <string name="comics_description">Description</string>
+    <string name="genre">Genre</string>
+    <string name="author">Author</string>
+    <string-array name="data_title">
+        <item>The Beginning After The End</item>
+        <item>The Red Knight Seeks No Reward</item>
+        <item>Terror Man</item>
+        <item>The Greatest Estate Developer</item>
+        <item>The Lazy Lord Masters the Sword</item>
+        <item>Release That Witch</item>
+        <item>Tyrant of the Tower Defense Game</item>
+        <item>Tacit</item>
+        <item>Marginal Operation</item>
+        <item>The Horizon</item>
+    </string-array>
+
+    <string-array name="data_long_description">
+        <item>King Grey has unrivaled strength, wealth, and prestige in a world governed by martial ability. However, solitude lingers closely behind those with great power. Beneath the glamorous exterior of a powerful king lurks the shell of man, devoid of purpose and will.
+
+\n\nReincarnated into a new world filled with magic and monsters, the king has a second chance to relive his life. Correcting the mistakes of his past will not be his only challenge, however. Underneath the peace and prosperity of the new world is an undercurrent threatening to destroy everything he has worked for, questioning his role and reason for being born again.</item>
+        <item>After dying at the hands of her backstabbing superior, money-grubbing Judith learned the hard way that bounty is never worth bloodshed. When she somehow finds herself alive and well, six years prior to her death, she decides to use her second chance at life to abandon her greed and become a genuine knight. She begins by accepting Captain Kaillou Lewalmeigh\'s offer to join the honorable Order of Red Knights. Will Judith be able to redeem herself by overcoming the wrongdoings of her past?</item>
+        <item>Min Jung Woo has a special ability, one that lets him see whenever a path leads to an unfortunate future. Min Jung Woo uses his eyes of \"Misfortune\" to spot unfortunate events and tries to stop them, leading him to become a terrorist feared by the people.</item>
+        <item>When civil engineering student Suho Kim falls asleep reading a fantasy novel, he wakes up as a character in the book! Suho is now in the body of Lloyd Frontera, a lazy noble who loves to drink, and whose family is in a mountain of debt. Using his engineering knowledge, Suho designs inventions to avert the terrible future that lies in wait for him. With the help of a giant hamster, a knight, and the world’s magic, can Suho dig his new family out of debt and build a better future?</item>
+        <item>Irene Perreira is a boy who sleeps to run away from reality. People mocked him, calling him a \'deadbeat\', but he had no wish to change. Until one day, he dreamt of a swordsman… It was a dream about a talentless man who had been training by swinging his sword for decades.</item>
+        <item>A male engineer transmigrated into another world, and became a prince. This place strikingly resembles the Middle Ages of Europe, but at the same time, it seems kind of different? Witches truly exist, and they even possess magic powers! Magic powers are productive forces! Save the witches, liberate the productive forces! Open map, fight demons, break conspiracies, climb up the science and technology tree, and open the path of hardcore \'farming!\'</item>
+        <item>The tower defense &amp; dungeon offense RPG,
+
+\n\nI watched the ending of the game on a difficulty that no one has cleared yet.
+
+\n\nBut when I woke up, I was inside the game. On top of that, in a tutorial stage that I can’t seem to beat.
+
+\n\n\"I\'ll clear this damned game at all costs…!\"</item>
+        <item>In the near future, the world is a desolate place occupied by the undead. Strange crystals emit a deadly zombie virus as the last remnants of humanity struggle to avoid infection and survive. Despite all this, life is relatively peaceful for young Ruby, who lives in the Amina Safe Zone with her father and a small band of other survivors. All of this changes when Ruby encounters Arvan, a white-haired young man with pale skin and no heartbeat. This meeting sets off a series of events that force Ruby and her father to embark on a journey to discover the truth.</item>
+        <item>Our hero Ryouta Arata is an otaku who\'s just lost his job after the dissolution of his company. Unwilling to return to his old NEET ways, he applies online to a private military security company, thinking the benefits to be promising. After what appears to be a baffling test, he\'s assigned to be an \"operator of operators\" and begins his training in a foreign country. Little does he know, the life of a private mercenary is far more grueling than he could have ever imagined!</item>
+        <item>Two children unexpectedly meet in the midst of war. After running away from the chaos, they come across a long empty road. With no adults to rely on, the two strangers, now become friends, walk alongside each other to see what\'s at the end of the road. All they hope is to keep being able to move forward. Just what kind of trials and tragedy awaits them during their journey for survival?</item>
+    </string-array>
+
+    <string-array name="data_author">
+        <item>Turtleme, Fuyuki23</item>
+        <item>Rosiwon, Song jaemin</item>
+        <item>GO Jin Ho, HAN Dong-Woo</item>
+        <item>BK_Moon, KIM Hyun Soo, LEE Hyun-Min</item>
+        <item>doip, Lee Deung</item>
+        <item>Dr Woodman, Er Mu</item>
+        <item>Ha Jung, Ryueun Garam</item>
+        <item>Kim Dazzi</item>
+        <item>KIMURA Daisuke, SHIBAMURA Yuri</item>
+        <item>Jeong Ji-Hun</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Action, Adventure, Fantasy, Isekai, Tragedy</item>
+        <item>Action, Drama, Fantasy, Romance, Shoujo</item>
+        <item>Action, Psychological</item>
+        <item>Adventure, Comedy, Fantasy, Shounen, Supernatural</item>
+        <item>Action, Fantasy, Shounen</item>
+        <item>Action, Adventure, Drama, Fantasy, Harem, Isekai, Supernatural</item>
+        <item>Action, Fantasy, Isekai</item>
+        <item>Action, Drama, Fantasy, Sci-fi</item>
+        <item>Action, Drama, Mature, Psychological, Romance, Seinen</item>
+        <item>Drama, Mature, Psychological, Tragedy</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/the_beginning_after_the_end</item>
+        <item>@drawable/the_red_knight_seeks_no_reward</item>
+        <item>@drawable/terror_man</item>
+        <item>@drawable/the_greatest_estate_developer</item>
+        <item>@drawable/the_lazy_lord_masters_the_sword</item>
+        <item>@drawable/release_that_witch</item>
+        <item>@drawable/tyrant</item>
+        <item>@drawable/tacit</item>
+        <item>@drawable/marginal_operation</item>
+        <item>@drawable/the_horizon</item>
+    </integer-array>
+
+    <string-array name="data_url">
+        <item>https://www.manga4life.com/manga/The-Beginning-After-The-End</item>
+        <item>https://www.manga4life.com/manga/The-Red-Knight-Seeks-No-Reward</item>
+        <item>https://www.manga4life.com/manga/Terror-Man</item>
+        <item>https://www.manga4life.com/manga/The-Greatest-Estate-Developer</item>
+        <item>https://www.manga4life.com/manga/Reformation-of-the-Deadbeat-Noble</item>
+        <item>https://www.manga4life.com/manga/Release-That-Witch</item>
+        <item>https://flamecomics.com/series/tyrant-of-the-tower-defense-game/</item>
+        <item>https://www.manga4life.com/manga/Tacit</item>
+        <item>https://www.manga4life.com/manga/Marginal-Operation</item>
+        <item>https://www.manga4life.com/manga/The-Horizon</item>
+    </string-array>
+</resources>
